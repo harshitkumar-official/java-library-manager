@@ -12,7 +12,7 @@ A command-line library system in Java built on a **linked list and stack written
 Needs JDK 17+.
 ```
 mkdir out
-javac -d out src/*.java
+javac -d out *.java
 java -cp out Tests      # runs the checks
 java -cp out Main       # starts the CLI
 ```
